@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Florent Krzakala
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Florent
+last_name: Krzakala
 
 # Status emoji
 status:
@@ -14,22 +14,22 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Full Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École polytechnique fédérale de Lausanne
+    url: https://www.epfl.ch/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Statistical physics, Machine learning, Statistics, Probablity, Computer science, Signal processing and Computational optics.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
+ 
 # Education to show in About widget
 education:
   courses:
@@ -50,28 +50,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:florent.krzakala@epfl.ch	
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/KrzakalaF
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3jDeUlMAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/krzakala
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +74,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Florent Krzakala is a full professor at École polytechnique fédérale
+de Lausanne in Switzerland. His research interests include Statistical
+Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the [IdePHIcs “Information,
+Learning and Physics" laboratory](https://www.epfl.ch/labs/idephics/)
+in the Physics and Engineering departments in EPFL. He is also the founder and scientific advisor of
+the startup [Lighton](http://www.lighton.ai).
