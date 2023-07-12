@@ -213,7 +213,9 @@ sections:
         postcode: 1015
         country: Switzerland
         country_code: CH
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      coordinates:
+        latitude: '46.51917196603566'
+        longitude: '6.564594732428433'
       # Automatically link email and phone or display as text?
       autolink: true
 ---
