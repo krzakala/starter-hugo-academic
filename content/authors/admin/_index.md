@@ -26,22 +26,27 @@ bio: My research interests include Statistical physics, Machine learning, Statis
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Physics
+  - Machine learning
+  - Probability and Statistics
+  - Computer Science
+  - Information theory
+  - Inference on graphs
+  - Random Constraint Optimization 
+  - Computational optics
  
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoc
+      institution: Roma La Sapienza
+      year: 2004
+    - course: PhD in Statistical Physics
+      institution: Orsay, Paris XI, France
+      year: 2002
+    - course: MSc in Physics 
+      institution: Orsay, France
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +73,7 @@ social:
     link: https://www.youtube.com/channel/UCSHbb0xOaJZJWPEB3nLDbRg
   - icon: arxiv
     icon_pack: ai
-    link: https://github.com/krzakala    
+    link: https://arxiv.org/a/krzakala_f_1.html
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -84,5 +89,5 @@ Florent Krzakala is a full professor at École polytechnique fédérale
 de Lausanne in Switzerland. His research interests include Statistical
 Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the [IdePHIcs “Information,
 Learning and Physics" laboratory](https://www.epfl.ch/labs/idephics/)
-in the Physics and Engineering departments in EPFL. He is also the founder and scientific advisor of
+in the Physics and Electric Engineering departments in EPFL. He is also the founder and scientific advisor of
 the startup [Lighton](http://www.lighton.ai).
