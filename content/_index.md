@@ -68,6 +68,7 @@ sections:
       columns: '2'
 
   - block: people
+    id: groups
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -91,6 +92,7 @@ sections:
       show_organizations: true
 
   - block: people
+    id: alumni
     content:
       title: Former members (and where to find them)
       # Choose which groups/teams of users to display.
