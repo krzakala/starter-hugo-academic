@@ -1,31 +1,31 @@
 ---
 # Display name
-title: Marylou Gabrie
+title: Sebastian Goldt
 
 # Full name (for SEO)
-first_name: Marylou
-last_name: Gabrie
+first_name: Sebastian
+last_name: Goldt
 
 # Username (this should match the folder name)
 authors:
-- marylouG
+- sebG
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor at Ecole Polytechnique, Paris
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name:  Ecole Polytechnique, Paris
-  url: https://marylou-gabrie.github.io/
+- name:  SISSA, Trieste
+  url: https://datascience.sissa.it/person/16/sebastian-goldt
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "marylou.gabrie@ens.fr"
+email: "sebastian.goldt@sissa.it"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
