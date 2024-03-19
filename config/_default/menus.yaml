@@ -16,7 +16,7 @@ main:
   - name: Team
     url: '#groups'
     weight: 50
-  - name: Almuni
+  - name: Alumni
     url: '#alumni'
     weight: 55    
   - name: Contact
