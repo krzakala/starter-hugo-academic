@@ -94,27 +94,6 @@ sections:
     design:
       columns: '1'
 
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-      # Contact (add or remove contact options as necessary)
-      email: florent.krzakala@epfl.ch
-      phone: +41 21 693 31 87
-      address:
-        street: EPFL, IdePHICS lab, ELD 239, Station 11
-        city: Lausanne
-        postcode: 1015
-        country: Switzerland
-        country_code: CH
-      coordinates:
-        latitude: '46.51917196603566'
-        longitude: '6.564594732428433'
-      # Automatically link email and phone or display as text?
-      autolink: true
-
   - block: slider
     content:
       slides:
@@ -168,6 +147,28 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+      # Contact (add or remove contact options as necessary)
+      email: florent.krzakala@epfl.ch
+      phone: +41 21 693 31 87
+      address:
+        street: EPFL, IdePHICS lab, ELD 239, Station 11
+        city: Lausanne
+        postcode: 1015
+        country: Switzerland
+        country_code: CH
+      coordinates:
+        latitude: '46.51917196603566'
+        longitude: '6.564594732428433'
+      # Automatically link email and phone or display as text?
+      autolink: true
+
 ---
 
 ---
