@@ -121,8 +121,8 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: Youtube Channel
+          content: 'Videos of talks from Prof. Krzakala'
           align: right
           background:
             image:
@@ -136,7 +136,7 @@ sections:
           link:
             icon: graduation-cap
             icon_pack: fas
-            text: Join Us
+            text: Youtube Channel
             url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
