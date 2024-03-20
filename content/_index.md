@@ -137,7 +137,7 @@ sections:
             icon: graduation-cap
             icon_pack: fas
             text: Youtube Channel
-            url: ../contact/
+            url: https://www.youtube.com/playlist?list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
