@@ -95,6 +95,7 @@ sections:
       columns: '1'
 
   - block: slider
+    id: projects
     content:
       slides:
         - title: 👋 Welcome to the group
@@ -109,14 +110,14 @@ sections:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Lunch & Learn ☕️
-          content: 'Share your knowledge with the group and explore exciting new topics together!'
+        - title: Learning Neural Nets (with Neural Nets)
+          content: 'Invited talk in the Physics for Neural Network Conference in Princeon, April 2023'
           align: left
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: photo.jpeg
+              filename: Princeton.jpeg
               filters:
                 brightness: 0.7
             position: center
@@ -128,7 +129,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: photo.jpeg
+              filename: photo_talk_youtube.jpeg
               filters:
                 brightness: 0.5
             position: center
