@@ -27,7 +27,7 @@ sections:
       sort_ascending: true
     design:
       # Show user's social networking links? (true/false)
-      show_social: true
+      show_social: false
       # Show user's interests? (true/false)
       show_interests: false
       # Show user's role?
