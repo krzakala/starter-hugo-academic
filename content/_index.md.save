@@ -125,26 +125,7 @@ sections:
           link:
             icon: graduation-cap
             icon_pack: fas
-            text: See the talk
-            url: https://www.kaltura.com/index.php/extwidget/preview/partner_id/1449362/uiconf_id/25928631/embed/dynamic?flashvars[playlistAPI.kpl0Id]=1_jg3ev20y
-        - title: Are Gaussian Data All You Need?
-          content: 'Invited talk in the GRAMSIA conference in Harvard, May 2023'
-          align: left
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: harvard.jpg
-              filters:   
-                brightness: 0.7
-            position: center
-            color: '#555'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: See the talk
-            url: https://www.youtube.com/watch?v=SevHEAo2MHg&ab_channel=HarvardCMSA
-        - title: Youtube Channel
+            text: Youtube Channel        - title: Youtube Channel
           content: 'Videos of talks from Prof. Krzakala'
           align: right
           background:
