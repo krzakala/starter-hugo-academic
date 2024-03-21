@@ -127,6 +127,23 @@ sections:
             icon_pack: fas
             text: See the talk
             url: https://www.kaltura.com/index.php/extwidget/preview/partner_id/1449362/uiconf_id/25928631/embed/dynamic?flashvars[playlistAPI.kpl0Id]=1_jg3ev20y
+        - title: How do two-layer neural networks learn complex functions from data over time? 
+          content: 'Invited talk at Mathematics of Modern Machine Learning in Neurips 2023'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: neurips_no.jpeg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+          link:   
+            icon: graduation-cap
+            icon_pack: fas
+            text: See the talk
+            url: https://neurips.cc/virtual/2023/workshop/66507#collapse83688
         - title: Are Gaussian Data All You Need?
           content: 'Invited talk in the GRAMSIA conference in Harvard, May 2023'
           align: left
