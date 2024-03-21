@@ -144,6 +144,23 @@ sections:
             icon_pack: fas
             text: See the talk
             url: https://www.youtube.com/watch?v=SevHEAo2MHg&ab_channel=HarvardCMSA
+        - title: Statistical Physics and Learning 
+          content: 'Invited talk in the Turing Institute in London, 2019'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: alanturing.jpeg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+          link:   
+            icon: graduation-cap
+            icon_pack: fas
+            text: See the talk
+            url: https://www.youtube.com/watch?v=k65KqtJsEVU&ab_channel=TheAlanTuringInstitute
         - title: Youtube Channel
           content: 'Videos of talks from Prof. Krzakala'
           align: right
