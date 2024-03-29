@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YIfan Sun
+title: Yifan Sun
 
 # Full name (for SEO)
 first_name: Yifan

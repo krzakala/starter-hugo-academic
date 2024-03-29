@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rodrgigo Veiga
+title: Rodrigo Veiga
 
 # Full name (for SEO)
 first_name: Rodrigo
