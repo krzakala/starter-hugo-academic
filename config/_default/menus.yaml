@@ -13,6 +13,9 @@ main:
   - name: Teaching
     url: '#classes'
     weight: 50
+  - name: Books
+    url: '#books'
+    weight: 50
   - name: Team
     url: '#groups'
     weight: 50
