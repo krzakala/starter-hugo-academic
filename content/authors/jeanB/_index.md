@@ -32,3 +32,14 @@ email: "jean.barbier@ictp.it"
 user_groups: 
 - Alumni
 ---
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://jeanbarbier.github.io/jeanbarbier/" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

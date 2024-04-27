@@ -32,3 +32,14 @@ email: "marylou.gabrie@ens.fr"
 user_groups: 
 - Alumni
 ---
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://marylou-gabrie.github.io/" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>
