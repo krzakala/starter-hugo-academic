@@ -32,3 +32,15 @@ email: "antoine.maillard@ethz.ch"
 user_groups: 
 - Alumni
 ---
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://anmaillard.github.io/" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

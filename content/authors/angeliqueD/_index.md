@@ -32,3 +32,15 @@ email: ""
 user_groups: 
 - Alumni
 ---
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='http://angelique.dremeau.free.fr/Site_anglais/Home.html" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

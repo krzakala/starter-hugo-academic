@@ -32,3 +32,15 @@ email: "alaa.saade@gmail.com"
 user_groups: 
 - Alumni
 ---
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=KkwDhxwAAAAJ&hl=fr" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>
