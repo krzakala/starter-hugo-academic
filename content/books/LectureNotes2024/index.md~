@@ -1,20 +1,15 @@
 ---
-title:  "Statistical Physics For Optimization and Learning"
-subtitle: A set of Lectures given at Duke in 2018 by Lenka Zdeborova and Florent Krzakala
+title:  "The quantum adiabatic algorithm applied to random optimization problems: The quantum spin glass perspective"
+subtitle: 
 
 # Summary for listings and search engines
-summary: A set of Lectures given at Duke in 2018 by Lenka Zdeborova and Florent Krzakala
+summary: A review of quantum algoriths from the spin glass, statistical physics, and phase transition perspectives
 
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2020-12-13T00:00:00Z'
-relPermalinkOverride : "https://sphinxteam.github.io/DukeLecture2018/"
-
-
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2013-02-13T00:00:00Z'
 
 
 # Is this an unpublished draft?
@@ -31,24 +26,16 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
-
 tags:
   - Academic
-  - 开源
 
-categories:
-  - Demo
-  - 教程
 ---
 
 
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="1; url='https://sphinxteam.github.io/DukeLecture2018/" />
+    <meta http-equiv="refresh" content="0; url='https://www.sciencedirect.com/journal/physics-reports/vol/523/issue/3" />
   </head>
   <body>
     <p>You will be redirected to the class page soon!</p>
