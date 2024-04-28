@@ -32,3 +32,13 @@ email: ""
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=UjqIDvkAAAAJ&hl=en" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

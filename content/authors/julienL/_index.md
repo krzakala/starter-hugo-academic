@@ -37,3 +37,15 @@ target: https://example.com
 ---
 
 ---
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=Mm2mi0UAAAAJ&hl=en" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

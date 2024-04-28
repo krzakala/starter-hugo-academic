@@ -32,3 +32,14 @@ email: "cedric.gerbelot@gmail.com"
 user_groups: 
 - Alumni
 ---
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://cgerbelo.github.io/" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>

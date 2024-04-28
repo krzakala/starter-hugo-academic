@@ -32,3 +32,15 @@ email: "gabriele.sicuro@unibo.it"
 user_groups: 
 - Alumni
 ---
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://gsicuro.github.io/" />
+  </head>
+  <body>
+    <p>You will be redirected to the person wepage soon!</p>
+  </body>
+</html>
