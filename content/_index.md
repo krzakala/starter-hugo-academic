@@ -188,6 +188,24 @@ sections:
             icon_pack: fas
             text: See the talk
             url: https://www.youtube.com/watch?v=SevHEAo2MHg&ab_channel=HarvardCMSA
+        - title: Comment fonctionne l'inteligence artificielle ?
+          content: 'Conference grand public de vulgarisation a
+          Cargese, Juillet 2024'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: Cargese.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Voir la conference
+            url: https://www.youtube.com/watch?v=zBdHMIjrDEc&ab_channel=IESCARGESE
         - title: Statistical Physics and Learning 
           content: 'Invited talk in the Turing Institute in London, 2019'
           align: left
