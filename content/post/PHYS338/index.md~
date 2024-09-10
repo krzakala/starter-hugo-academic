@@ -1,16 +1,16 @@
 ---
-title:  "Mecanique quantique et theorie des groupes, PHYS 314"
-subtitle: Cours donnee a l'EPFL entre 2021 et 2023
+title:  "Statistical Physics For Optimization and Learning"
+subtitle: A set of Lectures given at Duke in 2018 by Lenka Zdeborova and Florent Krzakala
 
 # Summary for listings and search engines
-summary: A set of Lectures given at EPFL on quantum mechanics
+summary: A set of Lectures given at Duke in 2018 by Lenka Zdeborova and Florent Krzakala
 
 # Link this post with a project
 projects: []
 
 # Date published
 date: '2020-12-13T00:00:00Z'
-relPermalinkOverride : "https://edu.epfl.ch/coursebook/en/quantum-physics-ii-PHYS-314"
+relPermalinkOverride : "https://sphinxteam.github.io/DukeLecture2018/"
 
 
 # Date updated

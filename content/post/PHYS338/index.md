@@ -1,16 +1,16 @@
 ---
-title:  "Mecanique quantique et theorie des groupes, PHYS 314"
-subtitle: Cours donnee a l'EPFL entre 2021 et 2023
+title:  "Physique Stastistique, PHYS 338"
+subtitle: Cours donnee a l'EPFL depuis 2024
 
 # Summary for listings and search engines
-summary: A set of Lectures given at EPFL on quantum mechanics
+summary: A set of Lectures given at EPFL on statistical physics
 
 # Link this post with a project
 projects: []
 
 # Date published
 date: '2020-12-13T00:00:00Z'
-relPermalinkOverride : "https://edu.epfl.ch/coursebook/en/quantum-physics-ii-PHYS-314"
+relPermalinkOverride : "https://moodle.epfl.ch/course/view.php?id=18526"
 
 
 # Date updated
