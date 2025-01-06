@@ -18,7 +18,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name:  Ecole Polytechnique, Paris
+- name:  Ecole Normale, Paris
   url: https://marylou-gabrie.github.io/
 
 # Short bio (displayed in user profile at end of posts)

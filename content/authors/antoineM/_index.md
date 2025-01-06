@@ -18,7 +18,7 @@ role: Hermann-Weyl Instructor
 
 # Organizations/Affiliations
 organizations:
-- name:  ETHZ, Zurich
+- name:  INRIA, Paris
   url: https://anmaillard.github.io/
 
 # Short bio (displayed in user profile at end of posts)

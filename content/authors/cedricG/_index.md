@@ -18,7 +18,7 @@ role: Courant Instructor
 
 # Organizations/Affiliations
 organizations:
-- name:  NYU, New York
+- name:  CNRS, ENS Lyon
   url: https://cgerbelo.github.io/
 
 # Short bio (displayed in user profile at end of posts)

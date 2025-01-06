@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer
+role: Senior research director
 
 # Organizations/Affiliations
 organizations:
