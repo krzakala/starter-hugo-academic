@@ -14,12 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  Simons Center, New York
-  url: 
+- name:  Nvidia
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 

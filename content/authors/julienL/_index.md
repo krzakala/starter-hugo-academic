@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher at HuggingFace
+role: CEO of @AdaptiveML
 
 # Organizations/Affiliations
 organizations:

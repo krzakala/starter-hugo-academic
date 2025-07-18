@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Assistant professor
 
 # Organizations/Affiliations
 organizations:
-- name:  EPFL
+- name:  University of Nottingham
   url: 
 
 # Short bio (displayed in user profile at end of posts)

@@ -13,13 +13,13 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
 # Role/position
-role: Research Engineer
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  Microsoft
-  url: 
+- name:  Nvidia
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 

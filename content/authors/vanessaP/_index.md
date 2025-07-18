@@ -1,45 +1,38 @@
 ---
 # Display name
-title: Eric Tramel
+title: Vanessa Piccolo
 
 # Full name (for SEO)
-first_name: Eric
-last_name: Tramel
+first_name: Vanessa 
+last_name: Piccolo
 
 # Username (this should match the folder name)
 authors:
-- ericT
+- vanessaP
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Scientist
-
-# Organizations/Affiliations
-organizations:
-- name:  Nvidia
-  url: https://gsicuro.github.io/https://www.linkedin.com/in/erictramel/
+role: Postdoc
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vanessa.piccolo@epfl.ch"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: 
-- Alumni
+- Postdocs
 ---
-
-
 
 
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=jre2iwMAAAAJ&hl=fr" />
+    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=oYwzcZoAAAAJ&hl=it" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

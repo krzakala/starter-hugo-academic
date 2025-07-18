@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Courant Instructor
+role: Researcher
 
 # Organizations/Affiliations
 organizations:

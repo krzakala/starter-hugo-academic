@@ -14,12 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name:  EPFL, Lausanne
-  url: https://people.epfl.ch/alia.abbara
+- name: CNRS
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
