@@ -18,7 +18,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name:   Waterloo
+- name:   Syracuse, USA
   url: https://justinpko.github.io/
 
 # Short bio (displayed in user profile at end of posts)
