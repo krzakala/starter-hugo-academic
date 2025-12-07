@@ -89,5 +89,4 @@ Florent Krzakala is a full professor at École polytechnique fédérale
 de Lausanne in Switzerland. His research interests include Statistical
 Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the [IdePHIcs “Information,
 Learning and Physics" laboratory](https://www.epfl.ch/labs/idephics/)
-in the Physics and Electric Engineering departments in EPFL. He is also the founder and scientific advisor of
-the startup [Lighton](http://www.lighton.ai).
+in the Physics and Electric Engineering departments in EPFL.
