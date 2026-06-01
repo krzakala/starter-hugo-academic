@@ -14,9 +14,14 @@ status:
 superuser: false
 
 # Role/position/tagline
+role: Postdoc
 
+# Organizations/Affiliations
+organizations:
+- name: Harvard, USA
+  url:
 
-user_groups: ["Phd Students"]
+user_groups: ["Alumni"]
 
 
 # Short bio (displayed in user profile at end of posts)

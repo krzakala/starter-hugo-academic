@@ -171,6 +171,23 @@ sections:
             icon_pack: fas
             text: See the talk
             url: https://neurips.cc/virtual/2023/workshop/66507#collapse83688
+        - title: How Neural Networks Learn Simple Functions
+          content: 'Invited talk at the Simons Institute in Berkeley'
+          align: left
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: simons-berkeley.jpg
+              filters:
+                brightness: 0.7
+            position: center
+            color: '#555'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: See the talk
+            url: https://www.youtube.com/watch?v=bfDexMWGJno&list=PLvKBgJ4p0p3yNIJfnNx0BA4EKAHg3eOT-&index=4
         - title: Are Gaussian Data All You Need?
           content: 'Invited talk in the GRAMSIA conference in Harvard, May 2023'
           align: left

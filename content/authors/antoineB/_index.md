@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: ML Engineer
 
 # Organizations/Affiliations
 organizations:
-- name:  ENS, Paris
-  url: 
+- name: Probabl
+  url: https://probabl.ai/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -38,7 +38,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://prairie-institute.fr/chairs/antoine-baker/" />
+    <meta http-equiv="refresh" content="0; url='https://www.linkedin.com/in/antoine-baker-792840a0/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

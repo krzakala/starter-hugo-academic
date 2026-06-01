@@ -13,9 +13,6 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Postdoc
-
 # Short bio (displayed in user profile at end of posts)
 # bio: 
 
