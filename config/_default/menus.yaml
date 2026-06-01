@@ -9,23 +9,25 @@ main:
     weight: 10
   - name: Talks
     url: '#projects'
-    weight: 35
+    weight: 20
+  - name: Team
+    url: '#groups'
+    weight: 30
+  - name: Alumni
+    url: '#alumni'
+    weight: 40
   - name: Teaching
     url: '#classes'
     weight: 50
   - name: Books
     url: '#books'
-    weight: 50
-  - name: Team
-    url: '#groups'
-    weight: 50
-  - name: Alumni
-    url: '#alumni'
-    weight: 55    
+    weight: 60
+  - name: Gallery
+    url: '#gallery'
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 80
   - name: CV
     url: uploads/resume.pdf
-    weight: 75
-
+    weight: 90

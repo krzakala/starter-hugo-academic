@@ -16,7 +16,7 @@ superuser: false
 # Role/position/tagline
 
 
-user_groups: ["Phd Students"]
+user_groups: ["PhD Students"]
 
 
 # Short bio (displayed in user profile at end of posts)

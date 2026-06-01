@@ -9,7 +9,7 @@ last_name: Xu
 # Is this the primary user of the site?
 superuser: false
 
-user_groups: ["Phd Students"]
+user_groups: ["PhD Students"]
 
 # Short bio (displayed in user profile at end of posts)
 bio: Doctoral student in computer and communication sciences at EPFL.
