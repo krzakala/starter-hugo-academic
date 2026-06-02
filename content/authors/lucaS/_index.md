@@ -19,7 +19,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name:  Bocconi University, Milan
-  url: https://cs.unibocconi.eu/people/luca-saglietti
+  url: https://www.unibocconi.it/en/faculty/luca-saglietti
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -32,3 +32,13 @@ email: "luca.saglietti@unibocconi.it"
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://www.unibocconi.it/en/faculty/luca-saglietti'" />
+  </head>
+  <body>
+    <p>You will be redirected to the person webpage soon!</p>
+  </body>
+</html>

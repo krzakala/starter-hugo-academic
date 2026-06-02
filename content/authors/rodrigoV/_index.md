@@ -19,7 +19,7 @@ role: Assistant professor
 # Organizations/Affiliations
 organizations:
 - name:  University of Nottingham
-  url: 
+  url: https://rodsveiga.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -32,3 +32,13 @@ email: ""
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://rodsveiga.github.io/'" />
+  </head>
+  <body>
+    <p>You will be redirected to the person webpage soon!</p>
+  </body>
+</html>

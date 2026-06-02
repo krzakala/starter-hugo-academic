@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Matteo Vilucchio
+title: Luca Pesce
 
 # Full name (for SEO)
-first_name: Matteo
-last_name: Vilucchio
+first_name: Luca
+last_name: Pesce
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 
 
-user_groups: ["PhD Students"]
+user_groups: ["Phd Students"]
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,14 +72,9 @@ email: ''
 highlight_name: true
 ---
 
-
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url='https://mvilucchio.github.io/'" />
-  </head>
-  <body>
-    <p>You will be redirected to the person wepage soon!</p>
-  </body>
-</html>
+Florent Krzakala is a full professor at École polytechnique fédérale
+de Lausanne in Switzerland. His research interests include Statistical
+Physics, Machine Learning, Statistics, Signal Processing, Computer Science and Computational Optics. He leads the [IdePHIcs “Information,
+Learning and Physics" laboratory](https://www.epfl.ch/labs/idephics/)
+in the Physics and Electric Engineering departments in EPFL. He is also the founder and scientific advisor of
+the startup [Lighton](http://www.lighton.ai).

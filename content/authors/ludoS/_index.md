@@ -19,7 +19,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name:  ENSAI, Rennes
-  url: https://ensai.fr/equipe/stephan-ludovic/
+  url: https://www.lstephan.fr/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -37,7 +37,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://www.lstephan.fr/" />
+    <meta http-equiv="refresh" content="0; url='https://www.lstephan.fr/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

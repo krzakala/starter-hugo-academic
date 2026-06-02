@@ -32,3 +32,13 @@ email: "sebastian.goldt@sissa.it"
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://datascience.sissa.it/person/16/sebastian-goldt'" />
+  </head>
+  <body>
+    <p>You will be redirected to the person webpage soon!</p>
+  </body>
+</html>

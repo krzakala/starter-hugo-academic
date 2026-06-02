@@ -37,7 +37,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://jeanbarbier.github.io/jeanbarbier/" />
+    <meta http-equiv="refresh" content="0; url='https://justinpko.github.io/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

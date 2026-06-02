@@ -19,7 +19,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: Harvard, USA
-  url:
+  url: https://lucpoisson.github.io/
 
 user_groups: ["Alumni"]
 
@@ -41,34 +41,7 @@ education:
       year: 1999
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:florent.krzakala@epfl.ch	
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/KrzakalaF
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=3jDeUlMAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/krzakala
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/channel/UCSHbb0xOaJZJWPEB3nLDbRg
-  - icon: arxiv
-    icon_pack: ai
-    link: https://arxiv.org/a/krzakala_f_1.html
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+social: []
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,7 +54,7 @@ highlight_name: true
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?hl=en&user=praGYvoAAAAJ" />
+    <meta http-equiv="refresh" content="0; url='https://lucpoisson.github.io/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

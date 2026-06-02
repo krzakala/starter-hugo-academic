@@ -19,6 +19,7 @@ role: Research Scientist
 # Organizations/Affiliations
 organizations:
 - name:  Nvidia
+  url: https://rubenohana.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -31,3 +32,13 @@ email: ""
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://rubenohana.github.io/'" />
+  </head>
+  <body>
+    <p>You will be redirected to the person webpage soon!</p>
+  </body>
+</html>

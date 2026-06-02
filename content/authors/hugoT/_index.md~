@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Matteo Vilucchio
+title: Hugo Tabanelli
 
 # Full name (for SEO)
-first_name: Matteo
-last_name: Vilucchio
+first_name: Hugo
+last_name: Tabanelli
 
 # Status emoji
 status:
@@ -16,7 +16,7 @@ superuser: false
 # Role/position/tagline
 
 
-user_groups: ["PhD Students"]
+user_groups: ["Phd Students"]
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,12 +72,10 @@ email: ''
 highlight_name: true
 ---
 
-
-
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://mvilucchio.github.io/'" />
+    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=A-4QdoQAAAAJ&hl=it" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

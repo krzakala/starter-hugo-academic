@@ -19,7 +19,7 @@ role: Research Scientist
 # Organizations/Affiliations
 organizations:
 - name:  Nvidia
-  url: https://gsicuro.github.io/https://www.linkedin.com/in/erictramel/
+  url: https://eric-tramel.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -39,7 +39,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://scholar.google.com/citations?user=jre2iwMAAAAJ&hl=fr" />
+    <meta http-equiv="refresh" content="0; url='https://eric-tramel.github.io/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>

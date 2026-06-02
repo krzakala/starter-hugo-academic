@@ -32,3 +32,13 @@ email: ""
 user_groups: 
 - Alumni
 ---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='http://home.itp.ac.cn/~panzhang/'" />
+  </head>
+  <body>
+    <p>You will be redirected to the person webpage soon!</p>
+  </body>
+</html>
