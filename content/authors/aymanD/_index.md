@@ -10,12 +10,7 @@ last_name: Dmouj
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
 
-# Organizations/Affiliations
-organizations:
-  - name: EPFL
-    url: https://www.epfl.ch/
 
 user_groups: ["PhD Students"]
 
