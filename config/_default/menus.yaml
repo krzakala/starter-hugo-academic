@@ -19,6 +19,9 @@ main:
   - name: Teaching
     url: '#classes'
     weight: 50
+  - name: Events
+    url: '#events'
+    weight: 55
   - name: Books
     url: '#books'
     weight: 60

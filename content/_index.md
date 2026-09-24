@@ -83,6 +83,21 @@ sections:
       view: showcase
       columns: '2'
 
+  - block: portfolio
+    id: events
+    content:
+      title: Schools & Conferences
+      subtitle: Recurring scientific meetings I organize
+      text: Bringing together researchers and students around statistical physics, machine learning, inference, and high-dimensional theory.
+      filters:
+        folders:
+          - conferences
+      sort_by: Title
+      sort_ascending: true
+    design:
+      columns: '1'
+      view: masonry
+
 
   - block: collection
     id: books
