@@ -3,6 +3,7 @@ title: Cargèse Schools
 summary: A recurring school in Corsica where statistical physics, machine learning, and computer science meet by the sea.
 date: '2026-09-24T00:00:00Z'
 show_date: false
+external_link: https://cargeseschools.github.io/
 tags:
   - Schools
   - Statistical Physics

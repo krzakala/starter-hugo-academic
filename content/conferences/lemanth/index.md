@@ -3,6 +3,7 @@ title: LemanTh
 summary: The Lausanne Event on Machine Learning and Neural Network Theory, held annually at EPFL since 2024.
 date: '2026-09-24T00:00:00Z'
 show_date: false
+external_link: https://leman-th.github.io/
 tags:
   - Conferences
   - Machine Learning
