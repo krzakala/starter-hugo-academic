@@ -28,6 +28,9 @@ main:
   - name: Gallery
     url: '#gallery'
     weight: 70
+  - name: Music
+    url: https://florent-lanfranchi-music.github.io/
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80
