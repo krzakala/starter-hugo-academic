@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name:  Bocconi, Milan
-  url: https://people.epfl.ch/alia.abbara
+- name: IPhT, CEA Saclay
+  url: https://www.ipht.fr/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 

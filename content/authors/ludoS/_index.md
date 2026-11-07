@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  ENSAI, Rennes
-  url: https://www.lstephan.fr/
+- name: Google
+  url: https://research.google/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: 
@@ -37,7 +37,7 @@ user_groups:
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://www.lstephan.fr/'" />
+    <meta http-equiv="refresh" content="0; url='https://www.linkedin.com/in/ludovic-stephan-9bb874151/'" />
   </head>
   <body>
     <p>You will be redirected to the person wepage soon!</p>
